@@ -1,2 +1,2 @@
 # Experimental
-This repo contains my personal projects which are designated as experimental or learning exercises.
+This repo contains my personal projects which are only intended as experimental or learning exercises.
