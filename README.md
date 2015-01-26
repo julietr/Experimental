@@ -1,2 +1,2 @@
 # Experimental
-Space for personal experimental and learning projects.
+This repo contains my personal projects which are designated as experimental or learning exercises.
